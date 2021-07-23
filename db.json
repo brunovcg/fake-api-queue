@@ -1,90 +1,85 @@
 {
   "users": [
     {
-      "email": "filipe@mail.com",
+      "email": "brunovcg@gmail.com",
       "password": "$2a$10$eFmCPmPsaWpbymqbn5R/iOtIVLIhKi4kqvkZv2HYVQT7Z7IgpvXdO",
-      "name": "Filipe",
-      "age": 27,
+      "name": "Bruno",
+      "age": 33,
       "id": 1
-    },
-    {
-      "email": "luigi@mail.com",
-      "password": "$2a$10$DkGtHlfXpUmENSFTo.8M7uh.pwUCaUsHoyQ.HJ3ORmJ5gncjc.qe6",
-      "name": "Luigi",
-      "age": 35,
-      "id": 2
     }
   ],
-  "products": [
+  "info": [
     {
-      "name": "Geladeira ",
+      "client": "Teichi",
+      "calls": [],
+      "logo": "",
+      "id": 1,
       "userId": 1,
-      "price": 1500,
-      "category": "A",
-      "id": 2
+      "pass": "u1c1"
     },
     {
-      "name": "Microondas ",
+      "client": "McDonalds",
+      "logo": "",
+      "calls": [],
+      "id": 2,
       "userId": 1,
-      "price": 400,
-      "category": "A",
-      "id": 3
+      "pass": "u1c2"
     },
     {
-      "name": "Sofá cama",
-      "userId": 2,
-      "price": 100,
-      "category": "D",
-      "id": 4
-    },
-    {
-      "name": "Sofa",
-      "userId": 2,
-      "price": 850,
-      "category": "C",
-      "id": 6
-    },
-    {
-      "name": "Celular",
-      "userId": 2,
-      "price": 900,
-      "category": "A",
-      "id": 10
-    },
-    {
-      "name": "Notebook",
-      "userId": 2,
-      "price": 2300,
-      "category": "A",
-      "id": 11
-    },
-    {
-      "name": "Impressora",
-      "userId": 2,
-      "price": 300,
-      "category": "A",
-      "id": 12
-    },
-    {
-      "name": "Impressora 3d",
-      "userId": 2,
-      "price": 300,
-      "category": "A",
-      "id": 13
-    },
-    {
-      "name": "PS4",
+      "client": "Subway",
+      "calls": [],
+      "id": 3,
       "userId": 1,
-      "price": 500,
-      "category": "A",
-      "id": 15
+      "pass": "u1c3"
     },
     {
-      "name": "testando id",
-      "userId": 2,
-      "price": 60,
-      "category": "C",
-      "id": 16
+      "client": "Kings",
+      "calls": [],
+      "id": 4,
+      "userId": 1,
+      "pass": "u1c4"
+    },
+    {
+      "client": "Bob's",
+      "calls": [],
+      "id": 5,
+      "userId": 1,
+      "pass": "u1c5"
+    },
+    {
+      "client": "Furetti",
+      "calls": [],
+      "id": 6,
+      "userId": 1,
+      "pass": "u1c6"
+    },
+    {
+      "client": "Chinatown",
+      "calls": [],
+      "id": 7,
+      "userId": 1,
+      "pass": "u1c7"
+    },
+    {
+      "client": "Burguer King",
+      "calls": [],
+      "id": 8,
+      "userId": 1,
+      "pass": "u1c8"
+    },
+    {
+      "client": "Habbib's",
+      "calls": [],
+      "id": 9,
+      "userId": 1,
+      "pass": "u1c9"
+    },
+    {
+      "client": "Bonaparte",
+      "calls": [],
+      "id": 10,
+      "userId": 1,
+      "pass": "u1c10"
     }
   ]
 }
