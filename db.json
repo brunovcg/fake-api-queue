@@ -12,14 +12,12 @@
     {
       "client": "Teichi",
       "calls": [],
-      "logo": "../../assets/kitchen1.png",
       "id": 1,
       "userId": 1,
       "pass": "u1c1"
     },
     {
       "client": "McDonalds",
-      "logo": "../../assets/kitchen2.png",
       "calls": [],
       "id": 2,
       "userId": 1,
@@ -27,7 +25,6 @@
     },
     {
       "client": "Subway",
-      "logo": "../../assets/kitchen3.png",
       "calls": [],
       "id": 3,
       "userId": 1,
@@ -35,7 +32,6 @@
     },
     {
       "client": "Kings",
-      "logo": "../../assets/kitchen4.png",
       "calls": [],
       "id": 4,
       "userId": 1,
@@ -43,7 +39,6 @@
     },
     {
       "client": "Bob's",
-      "logo": "../../assets/kitchen5.png",
       "calls": [],
       "id": 5,
       "userId": 1,
@@ -51,7 +46,6 @@
     },
     {
       "client": "Furetti",
-      "logo": "../../assets/kitchen6.png",
       "calls": [],
       "id": 6,
       "userId": 1,
@@ -59,7 +53,6 @@
     },
     {
       "client": "Chinatown",
-      "logo": "../../assets/kitchen7.png",
       "calls": [],
       "id": 7,
       "userId": 1,
@@ -67,7 +60,6 @@
     },
     {
       "client": "Burguer King",
-      "logo": "../../assets/kitchen8.png",
       "calls": [],
       "id": 8,
       "userId": 1,
@@ -75,7 +67,6 @@
     },
     {
       "client": "Habbib's",
-      "logo": "../../assets/kitchen9.png",
       "calls": [],
       "id": 9,
       "userId": 1,
@@ -83,7 +74,6 @@
     },
     {
       "client": "Bonaparte",
-      "logo": "../../assets/kitchen10.png",
       "calls": [],
       "id": 10,
       "userId": 1,
